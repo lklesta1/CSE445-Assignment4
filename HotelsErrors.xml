@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Hotels -> Hotel-->
+<Hotel>
+	<Hotel Rating="4.5">
+		<!-- Missing Required-->
+		<Name>Westin Tempe</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address>
+			<Number>11</Number>
+			<Street>E 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel NearestAirport="LAX">
+		<Name>Hilton Los Angeles</Name>
+		<Phone>310-410-4000</Phone>
+		<Address>
+			<Number>5711</Number>
+			<Street>W Century Blvd</Street>
+			<City>Los Angeles</City>
+			<State>CA</State>
+			<Zip>90045</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel NearestAirport="JFK" Rating="4.0">
+		<Name>Mariott New York</Name>
+		<Phone>212-398-1900</Phone>
+		<Phone>800-228-9290</Phone>
+		<Address>
+			<Number>1535</Number>
+			<Street>Broadway</Street>
+			<City>New York</City>
+			<State>NY</State>
+			<Zip>10036</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel NearestAirport="O'Hare" Rating="4.3">
+		<Name>Hyatt Regency Chicago</Name>
+		<!-- Phone is missing-->
+		<Address>
+			<Number>151</Number>
+			<Street>E Wacker Dr</Street>
+			<City>Chicago</City>
+			<State>IL</State>
+			<Zip>60601</Zip>
+			<!-- Address closing tag gone-->
+		</Hotel>
+
+	<Hotel NearestAirport="SEA">
+		<!-- Two Names-->
+		<Name>Four Seasons Seattle</Name>
+		<Name>Four Seasons Washington</Name>
+		<Phone>206-749-7000</Phone>
+		<Phone>888-340-5662</Phone>
+		<Address>
+			<Number>99</Number>
+			<Street>Union St</Street>
+			<City>Seattle</City>
+			<State>WA</State>
+			<Zip>98101</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel NearestAirport="DEN" Rating="4.7">
+		<Name>Grand Hyatt Denver</Name>
+		<Phone>303-295-1234</Phone>
+		<Address>
+			<Number>1750</Number>
+			<Street>Welton St</Street>
+			<City>Denver</City>
+			<State>CO</State>
+			<Zip>80202</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel NearestAirport="PHX">
+		<Name>Arizona Grand Resort</Name>
+		<Phone>602-438-9000</Phone>
+		<Address>
+			<Number>8000</Number>
+			<Street>S Arizona Grand Pkwy</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85044</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel NearestAirport="DFW" Rating="3.9">
+		<Name>Omni Dallas Hotel</Name>
+		<Phone>214-744-6664</Phone>
+		<Phone>800-843-6664</Phone>
+		<Address>
+			<Number>555</Number>
+			<Street>S Lamar St</Street>
+			<City>Dallas</City>
+			<State>TX</State>
+			<Zip>75202</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel NearestAirport="BOS" Rating="4.6">
+		<Name>Fairmont Copley Plaza</Name>
+		<Phone>617-267-5300</Phone>
+		<Address>
+			<Number>138</Number>
+			<Street>St James Ave</Street>
+			<City>Boston</City>
+			<State>MA</State>
+			<Zip>02116</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel NearestAirport="ATL">
+		<Name>The Ritz-Carlton Atlanta</Name>
+		<Phone>404-659-0400</Phone>
+		<Address>
+			<Number>181</Number>
+			<Street>Peachtree St NE</Street>
+			<City>Atlanta</City>
+			<State>GA</State>
+			<Zip>30303</Zip>
+		</Address>
+	</Hotel>
+	</Hotels>
